@@ -1,21 +1,20 @@
 ## Hi, I'm Abhijit Wankhede
 
-**AI Agent Engineer | Python | LLM Function Calling | Prompt Engineering | LLM Evaluation**
+**Generative AI | AI Agents & LLM Function Calling | Prompt Engineering | LLM Evaluation | Python**
 
-I build AI agents with Python and large language models, and I have hands-on experience evaluating how LLMs behave.
+I build LLM-powered AI agents in Python and work on evaluating and improving large language models.
 
-- Analyst, AI/LLM Practice at **Innodata** (2026): LLM evaluation, RLHF-style ranking, hallucination checks and prompt design
-- Created training data for an **NVIDIA** multimodal AI program (via Randstad Digital)
-- Freelance LLM and speech-data projects with **RWS** and **Appen**
+- **Ex-NVIDIA**: quality review of scene narrations and captions for vision-language (multimodal) AI models
+- Hands-on with LLM evaluation, RLHF-style ranking, hallucination checks and prompt design
 - Currently learning **LangChain** and **LangGraph**
 
 ### Featured project
 
-**[E-commerce AI Agent](https://github.com/Abhijeet661/ecommerce-ai-agent)**: a Python agent that answers customer questions with LLM function calling (5 tools over product and order data) and writes Amazon/Walmart listings that are checked by guardrails and fixed automatically. Includes an evaluation script, pytest tests with a mock LLM, and GitHub Actions CI.
+**[E-commerce AI Agent](https://github.com/Abhijeet661/ecommerce-ai-agent)**: a Python agent that resolves product, inventory and order queries with LLM function calling (5 tools) and writes Amazon/Walmart listings that are checked by guardrails and fixed automatically. Includes an evaluation script, pytest tests with a mock LLM, and GitHub Actions CI.
 
 ### Tech
 
-Python · LLM APIs (Gemini, OpenAI-compatible) · Function calling · Prompt engineering · REST APIs · Django · Django REST Framework · Flask · SQL · React · Node.js · MongoDB · Git
+Python · LLM APIs (Gemini, OpenAI-compatible) · Function calling · Prompt engineering · REST APIs · Django · Django REST Framework · Flask · SQL · React · Node.js · MongoDB · Git · GitHub Actions
 
 ### Certifications
 
